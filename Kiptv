@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+http://bit.ly/TestadorIPTVVideoApresentacao
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS WORLD | SD
+http://112.175.138.137:1935/kbs_worldtv/_definst_/kbs_worldtv_4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS1 | SD
+http://112.175.138.137:1935/1tv/_definst_/1tv_5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS2 | SD
+http://112.175.138.137:1935/2tv/_definst_/2tv_5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS W | SD
+http://112.175.138.137:1935/kbsn_wtv/_definst_/kbsn_wtv_5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS 24 | SD
+http://112.175.138.137:1935/news24/_definst_/news24_800.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS N LIFE | SD
+http://112.175.138.137:1935/kbsn_prime/_definst_/kbsn_prime_5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS DRAMA | SD
+http://112.175.138.137:1935/kbsn_drama/_definst_/kbsn_drama_5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS SPORTS | SD
+http://112.175.138.137:1935/kbsn_sports/_definst_/kbsn_sports_5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS Joy | SD
+http://112.175.138.137:1935/kbsn_joy/_definst_/kbsn_joy_5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS Kids | SD
+http://112.175.138.137:1935/kbsn_kids/_definst_/kbsn_kids_5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", CBS | SD
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KTV | SD
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KCTV | SD
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", SBS | HD
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", MTN | SD
+http://edge1.everyon.tv:1935/etv1sb/phd18/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", TBC SBS | SD
+http://221.157.125.232:1935/live/psike/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", G1 SBS | SD
+http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBC SBS | SD
+http://221.157.125.232:1935/live/kbctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", UBC SBS | SD
+http://media.tbc.co.kr:1935/live/UBCstream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", TV CHOSUN | HD
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", ETN  | SD
+http://wkntv.vo.llnwd.net/e10/a_live/51307026/mp4:ch044900/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", EBS | SD
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", EBS 2 | SD
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", EBS plus 1 | SD
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", EBS plus 2 | SD
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", EBS e | SD
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", EBS Kids | SD
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", YTN Science | SD
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Music69/v4/6a/67/f8/6a67f8ab-04d6-8fe6-fb8f-9b0c6e34a34e/source/1200x630bb.jpg" group-title="24/7", Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Dethklok2.jpg/250px-Dethklok2.jpg" group-title="24/7", Metalocalypse
+https://adultswim-vodlive.cdn.turner.com/live/test-3/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" group-title="24/7", Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7", Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg" group-title="24/7", Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/8c/dd/d68cdd473f7a56f574b7514e24fbc1ce.jpg" group-title="24/7", Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:-1 tvg-logo="http://img.sharetv.com/shows/standard/superjail.jpg" group-title="24/7", Superjail!
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7", The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="24/7", The Venture Bros.
+http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7", Tim and Eric
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/11/ae_network_logo-svg.png" group-title="USA", A&E
+https://lhr-1.firstonetv.net:4434/hls/9d73dd4b19894ea67e0822140f3adaf7/1529573971/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135362e6d6264722e63662f7032702f62623338643930343862376239313730363236343136396130333166333261342e6d3375383f73743d32433538464e716b767269636c5864466a57736b4f6726653d31353239353838333731.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="USA", ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="USA", Action Movies
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="USA", AMC
+http://93.87.85.149/PLTV/88888888/224/3221226591/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNO01J1m4%2B3Ui%2BEpHdLGr9D0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001837%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2&from=4&hms_devid=104
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" group-title="USA", Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png" group-title="UK", Cartoon Network
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="UK", Discovery World
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.playbuzz.com/cdn/4544d479-c523-4fd0-a642-2391269d1f90/eb72b3c4-018c-4394-89c8-7a34a223c330_560_420.jpg" group-title="UK", Disney Channel
+http://93.87.85.70/PLTV/88888888/224/3221226894/01.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qhnPnY%2FUD6cpSm7SvhhqwnQxiVWTwRxF5qgCx8pYgdU%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001908%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
+#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA", Arirang (Opt-1)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA", Arirang (Opt-2)
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1458422731.png" group-title="SOUTH KOREA", CBS TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="SOUTH KOREA", CMC
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv-online.im/wp-content/uploads/2014/04/KBC-SBS-HD-live.gif" group-title="SOUTH KOREA", KBC SBS
+http://221.157.125.232:1935/live/kbctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.netville.co.kr/wp-content/uploads/2015/06/kbs-460x300.png" group-title="SOUTH KOREA", KBS 2
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://payload497.cargocollective.com/1/19/633459/12251667/KCTV_011_1280.png" group-title="SOUTH KOREA", KCTV
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://livesport.im/wp-content/uploads/2015/11/KCTV-N.gif" group-title="SOUTH KOREA", KCTV-N
+http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884588798486601728/RsxrZOnb_400x400.jpg" group-title="SOUTH KOREA", KTV
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg" group-title="SOUTH KOREA", TV Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/01/YTN-News-Logo.jpg" group-title="SOUTH KOREA", YTN
+http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", 90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC140/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC122/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Brits + Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC143/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Dance
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC127/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Hip Hop/R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC106/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC100/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC129/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Kidz Only
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC130/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC139/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC131/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Musica Urbana
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC128/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Pop & Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC132/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC133/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC123/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", R&B/Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC124/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC125/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Rap 2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC141/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC138/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Teen Beats
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC118/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Throwback Jamz
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC142/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Today's Country
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC121/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Toddler Tunes
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC144/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE", Y2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+
+
